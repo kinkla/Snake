@@ -19,3 +19,4 @@ D:\Snake\Snake\Snake\obj\Debug\net6.0-windows\refint\Snake.dll
 D:\Snake\Snake\Snake\obj\Debug\net6.0-windows\Snake.pdb
 D:\Snake\Snake\Snake\obj\Debug\net6.0-windows\Snake.genruntimeconfig.cache
 D:\Snake\Snake\Snake\obj\Debug\net6.0-windows\ref\Snake.dll
+D:\Snake\Snake\Snake\obj\Debug\net6.0-windows\App.baml
