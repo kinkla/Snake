@@ -1,0 +1,6 @@
+C:\Users\qinql\OneDrive\Desktop\New folder\Assets\icon.ico
+C:\Users\qinql\OneDrive\Desktop\New folder\Snake.exe
+C:\Users\qinql\OneDrive\Desktop\New folder\Snake.dll
+C:\Users\qinql\OneDrive\Desktop\New folder\Snake.deps.json
+C:\Users\qinql\OneDrive\Desktop\New folder\Snake.runtimeconfig.json
+C:\Users\qinql\OneDrive\Desktop\New folder\Snake.pdb

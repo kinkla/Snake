@@ -20,3 +20,5 @@ D:\Snake\Snake\Snake\obj\Debug\net6.0-windows\Snake.pdb
 D:\Snake\Snake\Snake\obj\Debug\net6.0-windows\Snake.genruntimeconfig.cache
 D:\Snake\Snake\Snake\obj\Debug\net6.0-windows\ref\Snake.dll
 D:\Snake\Snake\Snake\obj\Debug\net6.0-windows\App.baml
+D:\Snake\Snake\Snake\obj\Debug\net6.0-windows\Snake_Content.g.cs
+D:\Snake\Snake\Snake\bin\Debug\net6.0-windows\Assets\icon.ico
